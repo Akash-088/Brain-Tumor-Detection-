@@ -91,6 +91,27 @@ After training, the model achieved the following performance metrics:
 ![Screenshot 2025-05-11 154545](https://github.com/user-attachments/assets/31a1ab37-3f14-4d03-8ee7-efa64a01e2c6)
 ![Screenshot 2025-05-11 155914](https://github.com/user-attachments/assets/0258cff5-d393-4447-b468-0a1459d126b2)
 ![Screenshot 2025-05-11 154531](https://github.com/user-attachments/assets/14b90fe8-16f3-4f70-8411-25d7b4a11cb7)
+![Screenshot 2025-05-11 161612](https://github.com/user-attachments/assets/54cbf3e8-30a0-4741-8508-4fd93263fcd1)
+
+---
+
+## 🧪 Sample Predictions
+
+Example:
+![Screenshot 2025-05-11 161118](https://github.com/user-attachments/assets/2376366c-057c-4908-9697-9ac1baf00eb1)
+![Screenshot 2025-05-11 162051](https://github.com/user-attachments/assets/1cc57802-e818-4be6-ada2-a9f0f6c53968)
+![Screenshot 2025-05-11 162336](https://github.com/user-attachments/assets/8bbf49d8-badb-4497-bbb3-b642cfa5e9eb)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+
+
 
 
 
