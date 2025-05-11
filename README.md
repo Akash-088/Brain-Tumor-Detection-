@@ -84,7 +84,13 @@ After training, the model achieved the following performance metrics:
   
 ---
 
-📈 Visualizations
+## 📈 Visualizations
+
+![Screenshot 2025-05-11 161118](https://github.com/user-attachments/assets/e80f13e1-d440-4da8-86f7-38e74dbb5c06)
+![Screenshot 2025-05-11 154558](https://github.com/user-attachments/assets/523b95b9-1509-4f9c-af3d-4d6d7d0ae341)
+![Screenshot 2025-05-11 154545](https://github.com/user-attachments/assets/31a1ab37-3f14-4d03-8ee7-efa64a01e2c6)
+![Screenshot 2025-05-11 155914](https://github.com/user-attachments/assets/0258cff5-d393-4447-b468-0a1459d126b2)
+![Screenshot 2025-05-11 154531](https://github.com/user-attachments/assets/14b90fe8-16f3-4f70-8411-25d7b4a11cb7)
 
 
 
