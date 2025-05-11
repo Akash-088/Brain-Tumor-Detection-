@@ -11,20 +11,7 @@ The model is developed using the PyTorch deep learning framework and executed in
 
 ---
 
-## 📁 Dataset Structure
-
-The dataset is organized into two main directories:
-data/
-├── Training/
-│ ├── glioma/
-│ ├── meningioma/
-│ ├── notumor/
-│ └── pituitary/
-└── Testing/
-├── glioma/
-├── meningioma/
-├── notumor/
-└── pituitary/
+<pre> <code> ### 📁 Dataset Structure The dataset is organized as follows: ``` data/ ├── Training/ │ ├── glioma/ │ ├── meningioma/ │ ├── notumor/ │ └── pituitary/ └── Testing/ ├── glioma/ ├── meningioma/ ├── notumor/ └── pituitary/ ``` - `Training/`: Contains training images divided into four classes. - `Testing/`: Contains testing images divided into the same four classes. </code> </pre>
 
 *Note: Ensure that the dataset is properly uploaded to your Google Drive and the paths in the code are correctly set.*
 
